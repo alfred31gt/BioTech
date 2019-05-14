@@ -6,29 +6,31 @@ angular.module('starter.services', [])
   // Some fake testing data
   var chats = [{
     id: 0,
-    name: '¿QUÉ Y CUÁLES SON LOS MÉTODOS ANTICONCEPTIVOS?',
+    name: 'Metodos Anticonceptivos',
     lastText: 'Son los métodos o procedimientos que previenen un embarazo en mujeres sexualmente activas, ya sean ellas o sus parejas quienes los usen. Pueden ser hormonales o no hormonales, transitorios o definitivos, basados en tecnología o en conductas',
     face: 'imagenes/img3.jpg'
   }, {
     id: 1,
-    name: 'Métodos hormonales',
+    name: 'Metodos Anticonceptivos',
     lastText: 'Métodos combinados que contienen estrógeno y progestágeno y que se pueden administrar como píldoras, inyecciones, anillo vaginal o parche transdérmico.',
     face: 'imagenes/img6.jpg'
   }, {
     id: 2,
-    name: 'Métodos no hormonales permanentes:',
+    name: 'Metodos Anticonceptivos',
     lastText: 'Dispositivos intrauterinos.Anticonceptivos de barrera masculinos (condón) y femeninos (condón, diafragma; espermicidas).Método de la amenorrea de lactancia.Métodos de abstinencia periódica (moco cervical (Billings); calendario; temperatura basal; sintotérmico).',
     face: 'imagenes/img5.jpg'
   }, {
     id: 3,
-    name: 'Métodos no hormonales reversibles',
+    name: 'Metodos Anticonceptivos',
     lastText: 'Anticoncepción quirúrgica voluntaria (esterilización) femenina Anticoncepción quirúrgica voluntaria (esterilización) masculina.',
-    face: 'imagenes/img1.jpg'
+    face: 'imagenes/img1.jpg',
+    img: 'imagenes/img1.jpg'
   }, {
     id: 4,
-    name: '',
+    name: 'Metodos Anticonceptivos',
     lastText: '',
-    face: 'imagenes/img1.jpg'
+    face: 'imagenes/img1.jpg',
+    img: 'imagenes/img1.jpg'
   }];
 
   return {
