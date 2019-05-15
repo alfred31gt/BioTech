@@ -24,13 +24,11 @@ angular.module('starter.services', [])
     name: 'Metodos Anticonceptivos',
     lastText: 'Anticoncepción quirúrgica voluntaria (esterilización) femenina Anticoncepción quirúrgica voluntaria (esterilización) masculina.',
     face: 'imagenes/img1.jpg',
-    img: 'imagenes/img1.jpg'
   }, {
     id: 4,
     name: 'Metodos Anticonceptivos',
     lastText: '',
     face: 'imagenes/img1.jpg',
-    img: 'imagenes/img1.jpg'
   }];
 
   return {
