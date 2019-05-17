@@ -28,7 +28,6 @@ angular.module('starter.services', [])
     id: 4,
     name: 'Metodos Anticonceptivos',
     lastText: 'La Organización Mundial de la Salud (OMS) con la colaboración de expertos(as) de otras organizaciones y agencias, revisa periódicamente la evidencia científica disponible sobre el efecto que los métodos anticonceptivos puedan tener sobre la salud de las personas que los usan. Basándose en esta evidencia se han formulado recomendaciones que se presentan en los Criterios Médicos de Elegibilidad para el Uso de Anticonceptivos y las Recomendaciones sobre Prácticas Seleccionadas para el Uso de Anticonceptivos.',
-    img: 'imagenes/img1.jpg',
     face: 'imagenes/img1.jpg',
   }];
 
